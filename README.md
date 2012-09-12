@@ -4,7 +4,7 @@
 
 ## Supports
 
- - Chrome
+ - Chrome 1+
  - Firefox 3+
  - Internet Explorer 8+
  - Opera 10+
@@ -14,4 +14,9 @@
 
 A demo page is available [here][1].
 
+## Copyright and license
+
+Copyright (©) 2012 Dimitris Krestos. See [LICENSE][2] for details.
+
   [1]: https://dl.dropbox.com/u/28039153/baregrid/demo.html
+  [2]: https://dl.dropbox.com/u/28039153/baregrid/LICENSE.txt
