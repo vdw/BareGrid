@@ -1,3 +1,5 @@
+**This project is not maintained anymore.**
+
 # BareGrid
 
 ## A flexible grid system in less than 3 Kb uncompressed!
